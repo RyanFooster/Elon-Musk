@@ -22,12 +22,12 @@ nav li {
 }
 
 nav a {
-  color: black;
+  color: #faf7f7;
   font-weight: bold;
 }
 
 nav a:hover {
-  color: blue;
+  color: #5aa0d6;
 }
 
 header {
